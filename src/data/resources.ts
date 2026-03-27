@@ -95,7 +95,7 @@ export const resources: Resource[] = [
   },
   {
     title: 'GitHub — openclaw/openclaw',
-    desc: '源代码、Issue 跟踪和社区贡献指南 (337k+ ⭐)',
+    desc: '源代码、Issue 跟踪和社区贡献指南 (338k+ ⭐)',
     url: 'https://github.com/openclaw/openclaw',
     source: 'GitHub',
     lang: 'en',
@@ -4657,6 +4657,26 @@ export const resources: Resource[] = [
     tags: ["Windows", "PowerShell", "安装指南", "2026-03"],
   },
 
+
+  // ============ New — Week of 2026-03-28 ============
+  {
+    title: 'YouTube — Stop Wasting Time & Master OpenClaw in 12 Min',
+    desc: '21 Mar 2026 新视频：用 12 分钟快速讲清 OpenClaw 的安全部署思路、VPS 运行方式，以及如何把它变成可控的自动化工作流。',
+    url: 'https://www.youtube.com/watch?v=iSLruYDGT58',
+    source: 'YouTube',
+    lang: 'en',
+    category: 'video',
+    tags: ['YouTube', '12分钟', '安全部署', 'VPS', '2026-03'],
+  },
+  {
+    title: 'YouTube — 5 OpenClaw Use Cases You Need to Implement',
+    desc: '22 Mar 2026 新视频：总结 5 个可直接落地的 OpenClaw 场景，包括记忆系统、趋势监控、研发团队协作和夜间自动执行任务。',
+    url: 'https://www.youtube.com/watch?v=qRA0MyPlEPE',
+    source: 'YouTube',
+    lang: 'en',
+    category: 'use-cases',
+    tags: ['YouTube', '5个用例', '记忆系统', '自动化', '2026-03'],
+  },
 ];
 
 export function getResourcesByCategory(cat: ResourceCategory): Resource[] {
