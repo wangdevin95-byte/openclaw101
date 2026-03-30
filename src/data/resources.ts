@@ -95,7 +95,7 @@ export const resources: Resource[] = [
   },
   {
     title: 'GitHub — openclaw/openclaw',
-    desc: '源代码、Issue 跟踪和社区贡献指南 (339k+ ⭐)',
+    desc: '源代码、Issue 跟踪和社区贡献指南 (341k+ ⭐)',
     url: 'https://github.com/openclaw/openclaw',
     source: 'GitHub',
     lang: 'en',
@@ -4705,6 +4705,25 @@ export const resources: Resource[] = [
     category: 'video',
     tags: ['YouTube', '版本解读', '更新', '2026-03'],
   },
+  {
+    title: 'OpenClaw Newsletter — 2026-03-29（v2026.3.28：Plugin Approval Hooks + ANI + 339k+ Stars）',
+    desc: '官方日报：汇总 3 月 29 日社区热点，重点包括 v2026.3.28 的 plugin approval hooks、ANI 双向消息支持、动态模型路由，以及仓库来到 339,817 Stars。',
+    url: 'https://buttondown.com/openclaw-newsletter/archive/openclaw-newsletter-2026-03-29/',
+    source: 'OpenClaw Newsletter',
+    lang: 'en',
+    category: 'official',
+    tags: ['官方周刊', 'v2026.3.28', 'approval hooks', 'ANI', '339k Stars'],
+  },
+  {
+    title: 'YouTube — New FREE OpenClaw 3.24 Upgrades!',
+    desc: '最新视频速览：聚焦 OpenClaw 3.24 版本升级，快速过一遍新版能力和对实际工作流的影响。',
+    url: 'https://www.youtube.com/watch?v=axZvm3fXUm0',
+    source: 'YouTube',
+    lang: 'en',
+    category: 'video',
+    tags: ['YouTube', '3.24 更新', '版本解读', '2026-03'],
+  },
+
 ];
 
 export function getResourcesByCategory(cat: ResourceCategory): Resource[] {
