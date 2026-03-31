@@ -95,7 +95,7 @@ export const resources: Resource[] = [
   },
   {
     title: 'GitHub — openclaw/openclaw',
-    desc: '源代码、Issue 跟踪和社区贡献指南 (341k+ ⭐)',
+    desc: '源代码、Issue 跟踪和社区贡献指南 (342k+ ⭐)',
     url: 'https://github.com/openclaw/openclaw',
     source: 'GitHub',
     lang: 'en',
@@ -4722,6 +4722,36 @@ export const resources: Resource[] = [
     lang: 'en',
     category: 'video',
     tags: ['YouTube', '3.24 更新', '版本解读', '2026-03'],
+  },
+
+  {
+    title: 'Substack — OpenClaw 101 (2026 March 29): The Complete Guide to the AI Agent That Runs Your Life',
+    desc: '3 月 29 日更新的超全指南：整合 OpenClaw 是什么、如何部署、最新功能变化，以及 75+ 来自社区的真实用例。',
+    url: 'https://sidsaladi.substack.com/p/openclaw-101-2026-march-29-the-complete',
+    source: 'Substack',
+    lang: 'en',
+    category: 'deep-dive',
+    tags: ['Substack', '101 指南', '75+ 用例', '2026-03'],
+  },
+
+  {
+    title: 'Substack — OpenClaw News for Mar. 30/26',
+    desc: '3 月 30 日资讯汇总：聚焦 OpenClaw 安全治理、递归推理成本、企业采用与相关行业动态，适合追踪最近一周舆情。',
+    url: 'https://pau1.substack.com/p/openclaw-news-for-mar-3026',
+    source: 'Substack',
+    lang: 'en',
+    category: 'official',
+    tags: ['Substack', '新闻简报', '安全', '行业动态', '2026-03'],
+  },
+
+  {
+    title: 'Substack — OpenClaw News for Mar. 31/26',
+    desc: '3 月 31 日资讯汇总：覆盖 attested execution、Moltbook 安全教训、AutoClaw 图形化安装工具与百度生态集成等新动态。',
+    url: 'https://pau1.substack.com/p/openclaw-news-for-mar-3126',
+    source: 'Substack',
+    lang: 'en',
+    category: 'official',
+    tags: ['Substack', '新闻简报', 'AutoClaw', '百度', '2026-03'],
   },
 
 ];
